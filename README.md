@@ -101,4 +101,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Screenshots
 
-*Coming soon - Screenshots of the bot in action*
+![Palading Screenshot](/images/paladin_screenshots.png)
