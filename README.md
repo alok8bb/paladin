@@ -1,9 +1,12 @@
 
 ![Paladin Banner](/images/banner.png)
 
-# Paladin - token-gated community management bot
+# Paladin - token gated community management bot
 
 A telegram bot for creating secure, token-gated communities with built-in governance, analytics and AI assistance with support for Ethereum and Solana networks.
+
+> [!IMPORTANT]
+> This project was first built as a paid project for an anonymous user (under a different name). With their permission, I’ve refactored it a bit and open-sourced it here as Paladin. The bot works fine for the most part, though you might run into a few small issues. Just a heads-up: it’s not meant to be production-ready.
 
 ## Features
 
